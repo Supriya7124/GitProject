@@ -2,3 +2,5 @@ Hello World!!
 Welcome To Git
 
 feature 1 - login
+
+Feature 1 logout
