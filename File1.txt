@@ -1,10 +1,12 @@
 Hello World!! 
 Welcome To Git
 
-feature 1 - login  -updated by memeber of team for checking 3 way merging
+Feature 1 - login  -updated by memeber of team for checking 3 way merging
 
 Feature 2 - logout
 
-bug1 - fixed
+bug 1 - is fixed
 
-bug 2 is fixed
+bug 2 - is fixed
+
+change added for rebase test
