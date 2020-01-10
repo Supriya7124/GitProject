@@ -3,6 +3,8 @@ Welcome To Git
 
 feature 1 - login
 
-Feature 1 logout
+Feature 2 - logout
 
 bug1 - fixed
+
+bug 2 is fixed
