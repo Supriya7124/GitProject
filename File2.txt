@@ -5,4 +5,10 @@ file updated for push check on remote
 
 file 2 updated for remote server
 
+ 
 to test the change from remote master for rebase
+
+test for rebase from local master
+
+
+File 2 updated for change arrow and spell check
