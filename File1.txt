@@ -4,3 +4,5 @@ Welcome To Git
 feature 1 - login
 
 Feature 1 logout
+
+bug1 - fixed
